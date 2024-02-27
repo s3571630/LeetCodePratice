@@ -1,9 +1,10 @@
 # LeetCode練習工具
 
 ## 環境
-.net8主控台應用程式,需安裝.net8 runtime
+.net8主控台應用程式,需安裝.net8 runtime, VS2022
 
 ## 使用方式
+* 在Local DebugMode 執行程式，Console會印出指定題目結果<br>
 * 請參考 .\LeetCode\Program\Medium\M_22_Generate_Parentheses.cs 範例題<br>
 * 類別中有4個#region 為固定寫法, 提供底層程式去列印題目、解答、程式、說明...等<br>
 * 請照規則命名題目類別 => 難度(H: Hard, M: Medium, E: Eazy)_題目.cs, <br>
