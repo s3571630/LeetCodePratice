@@ -1,5 +1,8 @@
 # LeetCode練習工具
 
+## 環境
+.net8主控台應用程式,需安裝.net8 runtime
+
 ## 使用方式
 * 請參考 .\Program\Medium\M_22_Generate_Parentheses.cs 範例題<br>
 * 類別中有4個#region 為固定寫法, 提供底層程式去列印題目、解答、程式、說明...等<br>
@@ -9,6 +12,8 @@
 
 ## 範例
 ```cs
+// ./Program.cs
+
 namespace LeetCodePratice
 {
     class Program
