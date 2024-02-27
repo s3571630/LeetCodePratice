@@ -13,7 +13,7 @@
 
 ## 範例
 ```cs
-// ./Program.cs
+// .\Program.cs
 
 namespace LeetCodePratice
 {
