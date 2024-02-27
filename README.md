@@ -8,7 +8,7 @@
 > 主程式中使用 LeetCode.Program.LeetCode.main("M_22_Generate_Parentheses"); 反射想要觀察的題目
 
 ## 範例
-'''cs
+```cs
 namespace LeetCodePratice
 {
     class Program
@@ -24,9 +24,9 @@ namespace LeetCodePratice
         }
     }
 }
-'''
+```
 
-'''cs
+```cs
 // .\Program\Medium\M_22_Generate_Parentheses.cs
 
 namespace LeetCodePratice.LeetCode.Program // 命名空間請使用LeetCodePratice.LeetCode.Program
@@ -123,10 +123,10 @@ namespace LeetCodePratice.LeetCode.Program // 命名空間請使用LeetCodePrati
 
     }
 }
-'''
+```
 
 ## Console印出的結果
-'''
+```
 ================ LeetCode(題目: 22_Generate_Parentheses 難度: Medium) ================
 
     Given n pairs of parentheses,
@@ -206,4 +206,4 @@ public override void PrintResult()
     會回朔是因為 先進的stack 做完左 會做右
     最下層節點做完時 因為使用遞迴 之前的stack還沒做另一邊 所以會接者做
 
-'''
+```
