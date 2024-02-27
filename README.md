@@ -4,7 +4,7 @@
 .net8主控台應用程式,需安裝.net8 runtime
 
 ## 使用方式
-* 請參考 .\Program\Medium\M_22_Generate_Parentheses.cs 範例題<br>
+* 請參考 .\LeetCode\Program\Medium\M_22_Generate_Parentheses.cs 範例題<br>
 * 類別中有4個#region 為固定寫法, 提供底層程式去列印題目、解答、程式、說明...等<br>
 * 請照規則命名題目類別 => 難度(H: Hard, M: Medium, E: Eazy)_題目.cs, <br>
 將題目放在指定難度資料夾 EX: .\Program\Medium\M_22_Generate_Parentheses.cs <br>
@@ -32,7 +32,7 @@ namespace LeetCodePratice
 ```
 
 ```cs
-// .\Program\Medium\M_22_Generate_Parentheses.cs
+// .\LeetCode\Program\Medium\M_22_Generate_Parentheses.cs
 
 namespace LeetCodePratice.LeetCode.Program // 命名空間請使用LeetCodePratice.LeetCode.Program
 {
