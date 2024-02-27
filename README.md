@@ -36,7 +36,7 @@ namespace LeetCodePratice
 
 namespace LeetCodePratice.LeetCode.Program // 命名空間請使用LeetCodePratice.LeetCode.Program
 {
-    public class M_22_Generate_Parentheses : LeetCodePGMBase, ILeetCodePGM // 抽象方法與介面必須繼承
+    public class M_22_Generate_Parentheses : LeetCodePGMBase, ILeetCodePGM // 抽象類別與介面必須繼承
     {
 
         public M_22_Generate_Parentheses() : base()
