@@ -12,8 +12,8 @@
 * 主程式中使用 LeetCode.Program.LeetCode.main("M_22_Generate_Parentheses"); 反射想要觀察的題目
 
 ## 範例
+* .\Program.cs
 ```cs
-// .\Program.cs
 
 namespace LeetCodePratice
 {
@@ -31,9 +31,8 @@ namespace LeetCodePratice
     }
 }
 ```
-
+* .\LeetCode\Program\Medium\M_22_Generate_Parentheses.cs
 ```cs
-// .\LeetCode\Program\Medium\M_22_Generate_Parentheses.cs
 
 namespace LeetCodePratice.LeetCode.Program // 命名空間請使用LeetCodePratice.LeetCode.Program
 {
