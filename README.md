@@ -7,7 +7,7 @@
 * 請參考 .\LeetCode\Program\Medium\M_22_Generate_Parentheses.cs 範例題<br>
 * 類別中有4個#region 為固定寫法, 提供底層程式去列印題目、解答、程式、說明...等<br>
 * 請照規則命名題目類別 => 難度(H: Hard, M: Medium, E: Eazy)_題目.cs, <br>
-將題目放在指定難度資料夾 EX: .\Program\Medium\M_22_Generate_Parentheses.cs <br>
+將題目放在指定難度資料夾 EX: .\LeetCode\Program\Medium\M_22_Generate_Parentheses.cs <br>
 * 主程式中使用 LeetCode.Program.LeetCode.main("M_22_Generate_Parentheses"); 反射想要觀察的題目
 
 ## 範例
